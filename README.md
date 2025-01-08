@@ -1,7 +1,7 @@
 # Auto Complete Udemy
-Auto Complete Browser extension for Udemy.com
-## Features:
+Tự động hoàn thành các bài giảng trong Udemy.com
+## Dự kiến:
 - Picture in Picture 🔥🔥🔥
-- Better video play 😎
-- Mark course sections completed 😏
-- Ctrl + Right/Left arrows - to open next/previous video
+- Update phát video 😎
+- Đánh dấu các bài học đã hoàn thành 😏
+- Ctrl + Right/Left arrows - mở các bài tiếp/trước 

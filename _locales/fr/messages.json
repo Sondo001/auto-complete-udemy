@@ -1,0 +1,26 @@
+{
+  "watch_all": {
+    "message": "Xem tất cả",
+    "description": "Đánh dấu tất cả các video khóa học đã xem"
+  },
+  "unwatch_all": {
+    "message": "Bỏ xem tất cả",
+    "description": "Bỏ đánh dấu tất cả các video khóa học đã xem"
+  },
+  "app_name": {
+    "message": "Udemy Watcher",
+    "description": "Tên của extension"
+  },
+  "app_description": {
+    "message": "Kết thúc mọi khóa học Udemy trong dưới một giây",
+    "description": "Sản phẩm không được leak ra bên ngoài"
+  },
+  "hope": {
+    "message": "Kết thúc mọi khóa học Udemy trong dưới một giây",
+    "description": "Sản phẩm không được leak ra bên ngoài"
+  },
+  "rate_us": {
+    "message": "Kết thúc mọi khóa học Udemy trong dưới một giây",
+    "description": "Sản phẩm không được leak ra bên ngoài"
+  }
+}
